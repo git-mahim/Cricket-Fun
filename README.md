@@ -1,1 +1,1 @@
-# Cricket-Fun <a href="https://git-mahim.github.io/Cricket-Fun/"> Cricket-Fun </a>
+# <a href="https://git-mahim.github.io/Cricket-Fun/"> Cricket-Fun </a>
